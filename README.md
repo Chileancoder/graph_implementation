@@ -1,2 +1,1 @@
-# graph_implementation
-Data Structures portfolio assignment
+Directed and undirected graph data structures implementation. With apropriate methods to simulate each.
